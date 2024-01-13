@@ -1,4 +1,4 @@
-# School-diary
+# Diary
 
 # About
-Web-service for schools. In progress
+Web-service for educational establishments. In progress
